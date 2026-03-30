@@ -4,7 +4,7 @@
 
 ## Guides
 
-* [建立股票帳戶](guides/jian-li-gu-piao-zhang-hu.md)
+* [新增股票帳戶](guides/jian-li-gu-piao-zhang-hu.md)
 * [新增持股](guides/xin-zeng-chi-gu.md)
 * [記錄交易（買入／賣出／股利）](guides/ji-lu-jiao-yi-mai-ru-mai-chu-gu-li.md)
 * [解鎖功能](guides/jie-suo-gong-neng.md)

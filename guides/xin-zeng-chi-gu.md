@@ -13,7 +13,7 @@ metaLinks:
    ![list](../.gitbook/assets/stock_account_add_tw.png)
 2. 輸入股票代碼（例如：2330）與股票名稱（例如：台積電）<br>
 3. 輸入買入數量與單價<br>
-4. 點擊「儲存」，股票就會出現在持股清單中。
+4. 點擊「儲存」。
 
 
 
