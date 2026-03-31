@@ -4,12 +4,12 @@
 
 ## Guides
 
-* [新增股票帳戶](guides/jian-li-gu-piao-zhang-hu.md)
-* [新增持股](guides/xin-zeng-chi-gu.md)
-* [記錄交易（買入／賣出／股利）](guides/ji-lu-jiao-yi-mai-ru-mai-chu-gu-li.md)
-* [解鎖功能](guides/jie-suo-gong-neng.md)
+* [新增股票帳戶](guides/create-stock-account.md)
+* [新增持股](guides/add-stock-position.md)
+* [記錄交易（買入／賣出／股利）](guides/record-transactions.md)
+* [解鎖功能](guides/unlock-features.md)
 
 ## FAQ
 
-* [股價是自動更新的嗎？](faq/gu-jia-shi-zi-dong-geng-xin-de-ma.md)
-* [如何記美股？](faq/ru-he-ji-mei-gu.md)
+* [股價是自動更新的嗎？](faq/auto-update-stock-price.md)
+* [如何記美股？](faq/record-us-stocks.md)

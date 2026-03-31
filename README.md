@@ -17,24 +17,24 @@ metaLinks:
 
 ## 使用指南
 
-{% content-ref url="guides/jian-li-gu-piao-zhang-hu.md" %}
-[jian-li-gu-piao-zhang-hu.md](guides/jian-li-gu-piao-zhang-hu.md)
+{% content-ref url="guides/create-stock-account.md" %}
+[create-stock-account.md](guides/create-stock-account.md)
 {% endcontent-ref %}
 
-{% content-ref url="guides/xin-zeng-chi-gu.md" %}
-[xin-zeng-chi-gu.md](guides/xin-zeng-chi-gu.md)
+{% content-ref url="guides/add-stock-position.md" %}
+[add-stock-position.md](guides/add-stock-position.md)
 {% endcontent-ref %}
 
-{% content-ref url="guides/ji-lu-jiao-yi-mai-ru-mai-chu-gu-li.md" %}
-[ji-lu-jiao-yi-mai-ru-mai-chu-gu-li.md](guides/ji-lu-jiao-yi-mai-ru-mai-chu-gu-li.md)
+{% content-ref url="guides/record-transactions.md" %}
+[record-transactions.md](guides/record-transactions.md)
 {% endcontent-ref %}
 
-{% content-ref url="guides/jie-suo-gong-neng.md" %}
-[jie-suo-gong-neng.md](guides/jie-suo-gong-neng.md)
+{% content-ref url="guides/unlock-features.md" %}
+[unlock-features.md](guides/unlock-features.md)
 {% endcontent-ref %}
 
 ### FAQ
 
-{% content-ref url="faq/gu-jia-shi-zi-dong-geng-xin-de-ma.md" %}
-[gu-jia-shi-zi-dong-geng-xin-de-ma.md](faq/gu-jia-shi-zi-dong-geng-xin-de-ma.md)
+{% content-ref url="faq/auto-update-stock-price.md" %}
+[auto-update-stock-price.md](faq/auto-update-stock-price.md)
 {% endcontent-ref %}
