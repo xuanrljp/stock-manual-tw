@@ -38,3 +38,11 @@ metaLinks: {}
 {% content-ref url="faq/auto-update-stock-price.md" %}
 [auto-update-stock-price.md](faq/auto-update-stock-price.md)
 {% endcontent-ref %}
+
+{% content-ref url="faq/record-us-stocks.md" %}
+[record-us-stocks.md](faq/record-us-stocks.md)
+{% endcontent-ref %}
+
+{% content-ref url="faq/wo-chi-you-de-gu-piao-fa-sheng-le-gu-piao-fen-ge-dan-app-li-mei-you-xiang-guan-gong-neng-gai-zen-mo.md" %}
+[wo-chi-you-de-gu-piao-fa-sheng-le-gu-piao-fen-ge-dan-app-li-mei-you-xiang-guan-gong-neng-gai-zen-mo.md](faq/wo-chi-you-de-gu-piao-fa-sheng-le-gu-piao-fen-ge-dan-app-li-mei-you-xiang-guan-gong-neng-gai-zen-mo.md)
+{% endcontent-ref %}
