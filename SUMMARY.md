@@ -13,4 +13,4 @@
 
 * [股價是自動更新的嗎？](faq/auto-update-stock-price.md)
 * [如何記美股？](faq/record-us-stocks.md)
-* [我持有的股票發生了股票分割，但 App 裡沒有相關功能，該怎麼辦？](faq/wo-chi-you-de-gu-piao-fa-sheng-le-gu-piao-fen-ge-dan-app-li-mei-you-xiang-guan-gong-neng-gai-zen-mo.md)
+* [我持有的股票發生了股票分割，但 App 裡沒有相關功能，該怎麼辦？](faq/split-stock.md)

@@ -43,6 +43,6 @@ metaLinks: {}
 [record-us-stocks.md](faq/record-us-stocks.md)
 {% endcontent-ref %}
 
-{% content-ref url="faq/wo-chi-you-de-gu-piao-fa-sheng-le-gu-piao-fen-ge-dan-app-li-mei-you-xiang-guan-gong-neng-gai-zen-mo.md" %}
-[wo-chi-you-de-gu-piao-fa-sheng-le-gu-piao-fen-ge-dan-app-li-mei-you-xiang-guan-gong-neng-gai-zen-mo.md](faq/wo-chi-you-de-gu-piao-fa-sheng-le-gu-piao-fen-ge-dan-app-li-mei-you-xiang-guan-gong-neng-gai-zen-mo.md)
+{% content-ref url="faq/split-stock.md" %}
+[split-stock.md](faq/split-stock.md)
 {% endcontent-ref %}
