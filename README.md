@@ -43,6 +43,6 @@ metaLinks: {}
 [record-us-stocks.md](faq/record-us-stocks.md)
 {% endcontent-ref %}
 
-{% content-ref url="faq/split-stock.md" %}
-[split-stock.md](faq/split-stock.md)
+{% content-ref url="faq/wei-shen-mo-tian-tian-ji-zhang-de-gu-piao-zhang-hu-mei-you-bang-ding-jiao-ge-hu-yin-xing-zhang-hu-ma.md" %}
+[wei-shen-mo-tian-tian-ji-zhang-de-gu-piao-zhang-hu-mei-you-bang-ding-jiao-ge-hu-yin-xing-zhang-hu-ma.md](faq/wei-shen-mo-tian-tian-ji-zhang-de-gu-piao-zhang-hu-mei-you-bang-ding-jiao-ge-hu-yin-xing-zhang-hu-ma.md)
 {% endcontent-ref %}
