@@ -1,6 +1,6 @@
 # Table of contents
 
-* [股票資產管理 使用指南](README.md)
+* [天天記帳股票資產管理使用指南](README.md)
 
 ## Guides
 
